@@ -2,3 +2,5 @@
 echo"School"
 #!bin/bash
 #!/bin/bash
+#!/bin/bash
+echo "School"
